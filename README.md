@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-### Hi there 👋
 
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mhossain308)](https://github.com/mhossain308)
 
